@@ -6,7 +6,6 @@
 - 🎮 My hobby is playing games, the game genres that I like the most are RPG and survival adventure.
 
 ## 📓 Portfolio
-[a relative link](PORTFOLIO/README.md)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazar.a.f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-abdul-fattah-b1575a1b3/) 
