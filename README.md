@@ -5,6 +5,7 @@
 - 👨🏻‍💻 Full Stack Web Developer (approaching 2 years experience)
 - 🤖 I’m currently learning more about Artificial Intelligence.
 - 🎮 My hobby is playing games, the game genres that I like the most are RPG and survival adventure.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ](PORTFOLIO/README.md)
 
