@@ -1,5 +1,5 @@
 
-<h1  align="center"> Hi, I'm Nazar Abdul Fattah</h1>
+<h1  align="center"> Hi, I'm Nazar Abdul Fattah<img src="https://github.com/NazarAF/NazarAF/raw/main/images/waveHand.gif" height="32" /></h1>
 
 ## 💫 About Me
 - 👨🏻‍💻 Full Stack Web Developer (approaching 2 years experience)
